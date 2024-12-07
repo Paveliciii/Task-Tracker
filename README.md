@@ -1,5 +1,5 @@
 # Task-Tracker
-Build a CLI app to track your tasks and manage your to-do list.
+<p>Build a CLI app to track your tasks and manage your to-do list.</p>
 python task_cli.py add "<Task name>" - add a new Task
 python task_cli.py update <ID> "<Task name>" -update your task
 python task_cli.py delete <ID> - delete a task
